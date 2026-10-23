@@ -1,5 +1,10 @@
 # NHL24 PC
 
+> **About this fork:** I created this fork of [hilals/nhl24pc](https://github.com/hilals/nhl24pc)
+> for my own use. I'm playing through the game and fixing issues as they come up. Changes made here
+> are logged in [`docs/FORK_NOTES.md`](docs/FORK_NOTES.md). The rest of this README comes from the
+> original project and describes that project.
+
 **NHL 24 (PS4, CUSA37933) running natively on Windows** – a single-game fork of the
 [shadPS4](https://github.com/shadps4-emu/shadPS4) emulator, tuned and fixed for one title, with a launcher
 that extracts the game from your own PKG and starts it. No console, no CPU emulation: the game's x86-64
@@ -40,11 +45,14 @@ CPU directly, at native speed. What the emulator provides is everything around i
 
 ## Support
 
-If this fork is useful to you (crash fixes and roster tooling), you can support my work:
+The links below support the maintainers of the projects this fork is based on, not this fork.
+
+The maintainer of [hilals/nhl24pc](https://github.com/hilals/nhl24pc), the fork this one was created
+from (crash fixes and roster tooling):
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hishak)
 
-The NHL 24 port itself is the work of the original author, [HajDEO](https://github.com/HajDEO/nhl24pc) - you can support him too: [ko-fi.com/E1E61VGHII](https://ko-fi.com/E1E61VGHII)
+The NHL 24 port itself is the work of the original author, [HajDEO](https://github.com/HajDEO/nhl24pc): [ko-fi.com/E1E61VGHII](https://ko-fi.com/E1E61VGHII)
 
 ## Playing
 

@@ -1,6 +1,6 @@
 # Fork notes
 
-Changes and findings in this fork on top of [HajDEO/nhl24pc](https://github.com/HajDEO/nhl24pc).
+Changes and findings in this fork on top of [hilals/nhl24pc](https://github.com/hilals/nhl24pc).
 
 ## Fixed
 
